@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="java">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/RuoYi-Vue-master/ruoyi-admin/src/main/java" />
+      <root url="file://$PROJECT_DIR$/RuoYi-Vue-master/ruoyi-common/src/main/java" />
+      <root url="file://$PROJECT_DIR$/RuoYi-Vue-master/ruoyi-framework/src/main/java" />
+      <root url="file://$PROJECT_DIR$/RuoYi-Vue-master/ruoyi-generator/src/main/java" />
+      <root url="file://$PROJECT_DIR$/RuoYi-Vue-master/ruoyi-quartz/src/main/java" />
+      <root url="file://$PROJECT_DIR$/RuoYi-Vue-master/ruoyi-system/src/main/java" />
+    </SOURCES>
+  </library>
+</component>
